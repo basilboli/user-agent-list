@@ -1,2 +1,2 @@
 # user-agent-list
-txt file containing all possible user agents
+txt file containing subset of possible user agents 
